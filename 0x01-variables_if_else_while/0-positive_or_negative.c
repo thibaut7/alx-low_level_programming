@@ -8,10 +8,10 @@
 
 /* more headers goes there */
 
-/** 
- *main - main function
+/**
+ * main - main function
  *
- * return: text 
+ * Return: text
 */
 int main(void)
 
