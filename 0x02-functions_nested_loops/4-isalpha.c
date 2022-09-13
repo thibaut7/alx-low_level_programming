@@ -1,9 +1,9 @@
 /*
  * File: 4-isalpha.c
- * Auth: Brennan D Baraban
+ * Auth: thibaut7
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _isalpha - Checks if a character is alphabetic.
