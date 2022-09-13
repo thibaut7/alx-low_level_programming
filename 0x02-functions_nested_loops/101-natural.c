@@ -1,6 +1,6 @@
 /*
  * File: 101-natural.c
- * Auth: Brennan D Baraban
+ * Auth: thibaut7
  */
 
 #include <stdio.h>
