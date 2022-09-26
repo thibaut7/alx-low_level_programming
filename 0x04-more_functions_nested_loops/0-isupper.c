@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 /**
  * _isupper - check if is uppper
