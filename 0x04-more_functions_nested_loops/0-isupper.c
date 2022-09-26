@@ -3,7 +3,7 @@
 /**
  * _isupper - check if is uppper
  *
- *  Return: 0
+ * Return: 0
  */
 int _isupper(int c)
 {
