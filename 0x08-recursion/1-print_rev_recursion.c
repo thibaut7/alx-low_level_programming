@@ -1,9 +1,4 @@
-/*
- * File: 1-print_rev_recursion.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _print_rev_recursion - Prints a string in reverse.
@@ -18,22 +13,12 @@
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
-int _putchar(char c)
-{
-	return (write(1, &c, 1));
-}
 void _print_rev_recursion(char *s)
-{   int i=0;
+{
 	if (*s)
 	{    printf("%d", i);
 		_print_rev_recursion(s + 1);
-		i++;
 		_putchar(*s);
 
 	}
-}
-int main(void)
-{
-    char t[10]= "thibaut" ;
-    _print_rev_recursion(t);
 }
