@@ -1,9 +1,4 @@
-/*
- * File: 3-strspn.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strspn - Gets the length of a prefix substring.
