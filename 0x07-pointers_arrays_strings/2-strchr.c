@@ -1,9 +1,4 @@
-/*
- * File: 2-strchr.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strchr - Locates a character in a string.
