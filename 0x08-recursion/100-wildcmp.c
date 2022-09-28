@@ -1,9 +1,4 @@
-/*
- * File: 100-wildcmp.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main.h"
 
 int strlen_no_wilds(char *str);
 void iterate_wild(char **wildstr);
