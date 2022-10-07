@@ -1,9 +1,4 @@
-/*
- * File: 100-realloc.c
- * Auth: Brennan D Baraban
- */
-
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
